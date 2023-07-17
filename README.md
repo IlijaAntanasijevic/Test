@@ -1,24 +1,12 @@
-# ispit
+# Vue JS Project
 
-## Project setup
-```
-npm install
-```
+While learning the Vue framework, I used vuex (store) instead of the API (though I gained knowledge about axios and JWT token).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+It was created on 2023-Jun-20
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Find more in src directory 😏
 
-### Lints and fixes files
-```
-npm run lint
-```
+Link:  https://vueilija.netlify.app
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Used template: https://preview.colorlib.com/#callie 
+
