@@ -1,0 +1,30 @@
+[
+  {
+    "fullname": "Keith Johnson",
+    "email": "keithjohnson@gmail.com",
+    "username": "keith123",
+    "password": "testTest1",
+    "role": "user"
+  },
+  {
+    "fullname": "Sara James",
+    "email": "sarajamess@gmail.com",
+    "username": "saraaa",
+    "password": "testTest1",
+    "role": "user"
+  },
+  {
+    "fullname": "Philip Rogers",
+    "email": "philipro@gmail.com",
+    "username": "philippp",
+    "password": "testTest1",
+    "role": "user"
+  },
+  {
+    "fullname": "Ilija Antanasijevic",
+    "email": "ilija@gmail.com",
+    "username": "iksa",
+    "password": "adminAdmin1",
+    "role": "admin"
+  }
+]
