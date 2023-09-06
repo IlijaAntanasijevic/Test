@@ -4,7 +4,7 @@ While learning the Vue framework, I used vuex (store) instead of the API (though
 
 It was created on 2023-Jun-20
 
-Find more in src directory 😏
+Find more in the src directory 😏
 
 Link:  https://vueilija.netlify.app
 
